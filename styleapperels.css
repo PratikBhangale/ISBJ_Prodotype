@@ -1,0 +1,30 @@
+.imgsize1{
+    height: 34em;
+    width: 25em;
+    /* overflow: hidden; */
+}
+
+img{
+    object-fit: fill;
+    max-height: 100%;
+}
+
+.margintop{
+    margin-top: 3em;
+}
+
+.bottom-left {
+    font-size: 2em;
+    position: relative;
+    bottom: 3em;
+    left: 1em;
+    color: #f5bf4c;
+  }
+.imgsize1:hover .bottom-left{
+    border-bottom: 3px solid #f5bf4c;
+    margin-right: 9em;
+}
+
+#section2{
+    margin-top: 5em;
+}
