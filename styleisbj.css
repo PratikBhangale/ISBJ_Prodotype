@@ -1,0 +1,53 @@
+.bodybg{
+    background-color: #313131;
+    color: #ffffff;
+
+}
+
+.imgsize{
+    height: 25em;
+    width: 35em;
+    padding-top: 2em;
+}
+
+.parapadd{
+    font-size: 1.3em;
+}
+
+.navbackground{
+    background-color: #050505;
+}
+
+.dropdown-menu{
+    background-color: black;
+}
+
+.dropdown-item{
+    color: white;
+}
+
+.textedit{
+    text-decoration: none;
+    color: white;
+    padding-bottom: 0.2em;
+}
+
+.navmagnet{
+    display: flex;
+    justify-self: end;
+}
+
+.largetxt{
+    font-size: 1.2em;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+ }
+ .dropdown-toggle::after {
+    content: none;
+}
+
+
+
